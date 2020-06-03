@@ -12,4 +12,5 @@ uffa
 uffa!
 
 agora vai
+misericordia
 
