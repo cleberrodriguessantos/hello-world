@@ -5,9 +5,6 @@ Curso em video.
 
 esta linha adicionei diretamente no site 
 
-<<<<<<< HEAD
-mudei
-=
-Deus é fiel
 
-test
+mudei
+
