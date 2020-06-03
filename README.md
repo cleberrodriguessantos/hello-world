@@ -6,5 +6,5 @@ Curso em video.
 esta linha adicionei diretamente no site 
 
 
-mudei
+mudei.
 
