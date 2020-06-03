@@ -12,3 +12,6 @@ uffa
 uffa!
 test
 
+agora vai
+misericordia
+
